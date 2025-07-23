@@ -34,10 +34,10 @@ The EC2 instance must have these tags at launch:
 
 | Tag Key | Example Value     |
 |---------|-------------------|
-| Name    | Awaish Ansari     |
-| emailID | awaish@example.com|
-| phoneNo | 9876543210        |
-| Place   | Mumbai            |
+| Name    | Anjali Dale.      |
+| emailID | anjali@example.com|
+| phoneNo | 9665153030        |
+| Place   | Pune.             |
 
 ---
 
